@@ -9,7 +9,7 @@ export default function About() {
       <div className="parent-container">
         <div className="child-container">
             <div className="child-container-img">
-            <Image src="/images/_MG_8761.jpg" alt="My image" width={150} height={300}/>
+            <Image src="/images/img-crop.jpg" alt="My image" width={150} height={150}/>
             </div>
             <br/>
           <p>Welcom in <strong>About</strong></p>
