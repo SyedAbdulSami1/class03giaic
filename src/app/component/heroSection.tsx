@@ -5,7 +5,7 @@ export default function HeroSection (){
         <div className="hs-parent">
             <div className="hs-text">
                 <h1>Syed Abdul Sami</h1>
-                <p>I'm a passionate Graphic Designer currently expanding my skills into web development with Next.js. With experience in creative tools and a focus on modern design, I aim to bring innovative ideas to life. Join me on this journey as I explore new ways to blend design and technology.</p>
+                <p>I&apos;m a passionate Graphic Designer currently expanding my skills into web development with Next.js. With experience in creative tools and a focus on modern design, I aim to bring innovative ideas to life. Join me on this journey as I explore new ways to blend design and technology.</p>
                 <div className="hs-buttonMain">
                     <Link href={"/getstarted"}>
                     <div className="chidernGetStarted">Get Started Now</div>
