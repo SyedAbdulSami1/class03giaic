@@ -16,7 +16,7 @@ export default function HeroSection (){
                 </div>
             </div>
             <div className="hs-image">
-                <Image src="/images/img-crop.jpg" alt="My image" width={800} height={800}/>
+                <Image src="/images/img-crop.jpg" alt="My image" width={900} height={900}/>
 
             </div>
         </div>
